@@ -36,3 +36,17 @@ CODE STRUCTURE :
 ![Screenshot 2024-10-29 182937](https://github.com/user-attachments/assets/968fdf99-f85e-4a8c-abb3-fc9750f0106c)
 
 
+SAMPLE OF CODE SNIPPET :
+
+
+![Screenshot 2024-10-29 183214](https://github.com/user-attachments/assets/83682881-6798-4381-9dee-0f9ffe5a9269)
+
+
+OUTPUT : 
+
+
+![Screenshot 2024-10-29 183503](https://github.com/user-attachments/assets/8c77cbba-b742-4897-9d68-7be41681ee6d)
+
+
+
+
