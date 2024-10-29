@@ -31,9 +31,8 @@ Filters employees based on a given age threshold using Stream API.
 
 CODE STRUCTURE : 
 
-|-- src
-    |-- Employee.java            # Defines the employee object
-    |-- EmployeeProcessor.java    # Contains data processing methods
-    |-- Main.java                 # Program entry point
-|-- README.md                     # Project description and documentation
+
+
+![Screenshot 2024-10-29 182937](https://github.com/user-attachments/assets/968fdf99-f85e-4a8c-abb3-fc9750f0106c)
+
 
