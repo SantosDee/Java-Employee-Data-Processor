@@ -27,3 +27,13 @@ Average Salary Calculation:
 Implements the Stream API to calculate the average salary of employees in the dataset.
 Age-Based Filtering:
 Filters employees based on a given age threshold using Stream API.
+
+
+CODE STRUCTURE : 
+
+|-- src
+    |-- Employee.java            # Defines the employee object
+    |-- EmployeeProcessor.java    # Contains data processing methods
+    |-- Main.java                 # Program entry point
+|-- README.md                     # Project description and documentation
+
