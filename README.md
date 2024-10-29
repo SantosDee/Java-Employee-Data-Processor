@@ -48,5 +48,7 @@ OUTPUT :
 ![Screenshot 2024-10-29 183503](https://github.com/user-attachments/assets/8c77cbba-b742-4897-9d68-7be41681ee6d)
 
 
+License
+This project is licensed under the MIT License.
 
 
